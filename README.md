@@ -1,5 +1,5 @@
 # YanuX Artwork
-This is part of the [__YanuX Frameworl__](https://yanux-framework.github.io/).
+This is part of the [__YanuX Framework__](https://yanux-framework.github.io/).
 
 This repository hosts all of the art assets created for the project.
 
